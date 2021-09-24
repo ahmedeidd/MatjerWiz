@@ -1,4 +1,7 @@
 
+
+<a href="https://github.com/ahmedeidd/MatjerWiz/blob/main/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+
 ## android
 
 <img src="android/screenshot_1.jpg" width="200"> <img src="android/screenshot_2.jpg" width="200">  <img src="android/screenshot_3.jpg" width="200">
